@@ -1,2 +1,2 @@
-# My-Ecommerce-App
-Building an ecommerce app while I learn Django
+# Learning-Django
+My code files built as I learn Djago
