@@ -1,9 +1,7 @@
 from django.urls import path
 from . import views
 
-# URL conf
-
-
+# App URL conf
 urlpatterns = [
     path('', views.index)
 ]
